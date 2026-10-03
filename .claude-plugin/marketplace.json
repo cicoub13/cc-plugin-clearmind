@@ -1,0 +1,13 @@
+{
+  "name": "clearmind",
+  "description": "ClearMind, a Claude Code mod that follows the current prompt in a side pane",
+  "owner": { "name": "cicoub13", "url": "https://github.com/cicoub13" },
+  "plugins": [
+    {
+      "name": "clearmind",
+      "source": ".",
+      "description": "Right-side pane that follows the current prompt: plan steps, tool actions and Claude's visible notes, cleared on each new prompt",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clearmind",
+  "version": "0.1.0",
+  "description": "Right-side pane that follows the current prompt: plan steps, tool actions and Claude's visible notes, cleared on each new prompt",
+  "author": { "name": "cicoub13", "url": "https://github.com/cicoub13" },
+  "homepage": "https://github.com/cicoub13/cc-plugin-clearmind",
+  "repository": "https://github.com/cicoub13/cc-plugin-clearmind",
+  "license": "MIT OR Apache-2.0",
+  "keywords": ["mod", "pane", "progress", "plan", "tool-calls"],
+  "types": "./types/index.d.ts"
+}
